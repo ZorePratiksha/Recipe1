@@ -1,0 +1,17 @@
+.navbar{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.Link{
+    display: flex;
+    justify-content:space-around;
+    width: 100%;
+    align-items: center;
+}
+input{
+    padding: 10px;
+    text-align: center;
+}
